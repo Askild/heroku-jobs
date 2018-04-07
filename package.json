@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Askild/heroku-jobs/issues"
   },
-  "homepage": "https://github.com/Askild/heroku-jobs#readme"
+  "homepage": "https://github.com/Askild/heroku-jobs#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
 }
