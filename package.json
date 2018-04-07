@@ -1,0 +1,18 @@
+{
+  "name": "heroku-jobs",
+  "version": "1.0.0",
+  "description": "Heroku jobs using Node.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Askild/heroku-jobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Askild/heroku-jobs/issues"
+  },
+  "homepage": "https://github.com/Askild/heroku-jobs#readme"
+}
