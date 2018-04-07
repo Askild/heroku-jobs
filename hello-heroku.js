@@ -3,3 +3,5 @@ function sayHello() {
 }
 
 sayHello();
+
+process.exit(0);

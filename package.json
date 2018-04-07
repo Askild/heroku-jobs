@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Heroku jobs using Node.js",
   "scripts": {
+    "start": "node hello-heroku.js"
   },
   "repository": {
     "type": "git",
